@@ -5,8 +5,8 @@
     "company": "TechCorp Solutions",
     "location": "San Francisco, CA",
     "type": "Remote",
-    "description": "We are looking for a Senior Frontend Developer with 5+ years of experience in React and modern CSS frameworks...",
-    "skills": ["React", "TypeScript", "Tailwind CSS", "Next.js"]
+    "description": "We are looking for a Senior Frontend Developer with 5+ years of experience in React and modern CSS frameworks. You will be responsible for leading the frontend team and architecting scalable UI components for our core dashboard product.",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Next.js", "Zustand"]
   },
   {
     "id": 2,
@@ -14,7 +14,61 @@
     "company": "Creative Flux",
     "location": "New York, NY",
     "type": "Full-time",
-    "description": "Join our design team to create world-class user experiences for our fintech platform...",
-    "skills": ["Figma", "UI/UX", "Prototyping", "Design Systems"]
+    "description": "Join our design team to create world-class user experiences for our fintech platform. You should have a strong portfolio demonstrating expertise in Figma, design systems, and user-centered design principles.",
+    "skills": ["Figma", "UI/UX", "Prototyping", "Design Systems", "User Research"]
+  },
+  {
+    "id": 3,
+    "title": "Backend Engineer (Node.js)",
+    "company": "CloudScale Systems",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "description": "We are seeking a Backend Engineer to build high-performance APIs and manage our distributed cloud infrastructure. Experience with PostgreSQL and AWS is highly preferred.",
+    "skills": ["Node.js", "Express", "PostgreSQL", "AWS", "Docker"]
+  },
+  {
+    "id": 4,
+    "title": "Frontend Intern",
+    "company": "PixelPerfect Studios",
+    "location": "Remote",
+    "type": "Internship",
+    "description": "Perfect for a student or bootcamp grad! You will assist our senior devs in building responsive landing pages and learning the ropes of professional React development in a fast-paced environment.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Git"]
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Developer",
+    "company": "AppSphere",
+    "location": "Los Angeles, CA",
+    "type": "Remote",
+    "description": "Help us build the next generation of social networking apps using React Native. You will work on cross-platform features, push notifications, and offline data synchronization.",
+    "skills": ["React Native", "Swift", "Firebase", "Redux", "GraphQL"]
+  },
+  {
+    "id": 6,
+    "title": "Data Analyst",
+    "company": "Insightify",
+    "location": "Chicago, IL",
+    "type": "Full-time",
+    "description": "Turn data into actionable insights. You will be responsible for building dashboards, writing complex SQL queries, and presenting findings to the executive team to drive business growth.",
+    "skills": ["Python", "SQL", "Tableau", "Pandas", "Statistics"]
+  },
+  {
+    "id": 7,
+    "title": "DevOps Engineer",
+    "company": "SecureNet",
+    "location": "Seattle, WA",
+    "type": "Full-time",
+    "description": "Manage our CI/CD pipelines and ensure 99.9% uptime for our global security platform. You should be comfortable with Infrastructure as Code (IaC) and container orchestration.",
+    "skills": ["Kubernetes", "Terraform", "Jenkins", "Python", "Linux"]
+  },
+  {
+    "id": 8,
+    "title": "Full Stack Intern",
+    "company": "Startup Launchpad",
+    "location": "Boston, MA",
+    "type": "Internship",
+    "description": "Experience life at a high-growth startup. You will work across the entire stack, from frontend animations to database migrations, under the mentorship of our CTO.",
+    "skills": ["MongoDB", "Express", "React", "Node.js", "Tailwind"]
   }
 ]
