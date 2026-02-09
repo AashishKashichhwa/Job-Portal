@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Frontend Developer",
-    "company": "TechFlow",
-    "location": "Remote",
-    "type": "Full-time",
-    "description": "We are looking for a React expert to help build modern user interfaces.",
-    "skills": ["React", "Tailwind CSS", "JavaScript"]
+    "title": "Senior Frontend Developer",
+    "company": "TechCorp Solutions",
+    "location": "San Francisco, CA",
+    "type": "Remote",
+    "description": "We are looking for a Senior Frontend Developer with 5+ years of experience in React and modern CSS frameworks...",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Next.js"]
   },
   {
     "id": 2,
-    "title": "UI Designer",
-    "company": "Creative Minds",
+    "title": "Product Designer",
+    "company": "Creative Flux",
     "location": "New York, NY",
-    "type": "Internship",
-    "description": "Join our design team to create beautiful components in Figma.",
-    "skills": ["Figma", "UI/UX", "Prototyping"]
+    "type": "Full-time",
+    "description": "Join our design team to create world-class user experiences for our fintech platform...",
+    "skills": ["Figma", "UI/UX", "Prototyping", "Design Systems"]
   }
 ]
