@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import jobsData from '../../data/jobs.json';
-import { Navbar } from './NavBar';
+import { Navbar } from './Navbar';
 import { SearchHero } from '../features/SearchHero';
 import { JobCard } from '../features/JobCard';
 import { JobModal } from '../features/JobModal';
